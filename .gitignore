@@ -1,0 +1,35 @@
+# Visual Studio-specific
+.vscode/
+.idea/
+*.suo
+*.user
+*.vs
+*.swp
+
+# Build files
+bin/
+obj/
+
+# Dependency folders
+node_modules/
+packages/
+wwwroot/lib/
+
+# Environment variables
+*.env
+appsettings.json
+appsettings.*.json
+
+# Logs & Temp files
+logs/
+*.log
+*.tmp
+
+# Solution and project-specific files
+*.sln.cache
+*.pidb
+*.ilk
+*.pdb
+*.bak
+*.swp
+*.lock.json
