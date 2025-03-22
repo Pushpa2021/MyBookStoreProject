@@ -1,0 +1,92 @@
+﻿@model MyMVCFrontend.Models.Cart
+
+<h1>Cart</h1>
+
+@if (Model.CartItems.Count > 0)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th></th>
+                <th>Book</th>
+                <th>Price</th>
+                <th>Quantity</th>
+                <th>Remove</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.CartItems)
+            {
+                var bookTotal = item.Book.Price * item.Quantity;
+                <tr>
+                    <td>
+                        <a class="a-cleanup" asp-controller="Store" asp-action="Details" asp-route-id="@item.Id"><img src="@item.Book.ImageUrl" style="height: 4em"></a>
+                    </td>
+                    <td>
+                        <a class="a-cleanup" asp-controller="Store" asp-action="Details" asp-route-id="@item.Id">@item.Book.Title</a>
+                    </td>
+                    <td>
+                        @bookTotal.ToString("c")
+                    </td>
+                    <td>
+                        <a href="#" onclick="updateCart('ReduceQuantity', @item.Book.Id)"><i class="fa-solid fa-minus"></i></a>
+                        <span class="badge badge-primary">@item.Quantity</span>
+                        <a href="#" onclick="updateCart('IncreaseQuantity', @item.Book.Id)"><i class="fa-solid fa-plus"></i></a>
+                    </td>
+                    <td>
+                        <a href="#" onclick="updateCart('RemoveFromCart', @item.Book.Id)" class="text-danger"><i class="fa-solid fa-xmark"></i></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td></td>
+                <td class="text-right">
+                    <strong>Total:</strong>
+                </td>
+                <td>
+                    <strong id="cartTotal">Loading...</strong>
+                </td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tfoot>
+    </table>
+
+    <a class="a-cleanup" asp-controller="Order" asp-action="Checkout"><div class="btn btn-success float-right mr-5">Checkout <i class="fa-solid fa-angles-right"></i></div> </a>
+    <a class="a-cleanup" href="#" onclick="updateCart('ClearCart')"><div class="btn btn-danger float-right mr-5"><i class="fa-solid fa-trash-can"></i> Empty Cart</div> </a>
+}
+else
+{
+    <h3 class="text-center">Cart is empty</h3>
+}
+
+<script>
+    const apiBaseUrl = "https://localhost:7041/api/CartApi";
+
+    async function fetchCartTotal() {
+        try {
+            const response = await fetch(apiBaseUrl);
+            const cart = await response.json();
+            document.getElementById("cartTotal").innerText = cart.cartItems.reduce((total, item) => total + (item.book.price * item.quantity), 0).toFixed(2);
+        } catch (error) {
+            console.error("Error fetching cart total:", error);
+            document.getElementById("cartTotal").innerText = "Error";
+        }
+    }
+
+    async function updateCart(action, id = null) {
+        let url = `${apiBaseUrl}/${action}`;
+        if (id) url += `/${id}`;
+
+        try {
+            await fetch(url, { method: action === "RemoveFromCart" ? "DELETE" : "POST" });
+            location.reload();
+        } catch (error) {
+            console.error("Error updating cart:", error);
+        }
+    }
+
+    window.onload = fetchCartTotal;
+</script>

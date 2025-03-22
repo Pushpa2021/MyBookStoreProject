@@ -1,0 +1,1192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\Dotnet\\MyWebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\controllers\\booksapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\controllers\\booksapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\viewmodels\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\viewmodels\\userroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\mymvcfrontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\mymvcfrontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\mywebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\viewmodels\\addroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\viewmodels\\addroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\order\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\order\\checkoutcomplete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\models\\userroleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\models\\userroleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\models\\postweatherreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\models\\postweatherreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\models\\defaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\models\\defaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\admin\\listallroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\admin\\listallroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\admin\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\admin\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\admin\\editusersinrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\admin\\editusersinrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\admin\\editrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\admin\\editrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\admin\\deleterole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\admin\\deleterole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\admin\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\admin\\addrole.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\mymvcfrontend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\mymvcfrontend.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\data\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\models\\defaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\defaultuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\models\\userroleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\models\\userroleinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F15DF4F-C5CA-454E-96C7-5C2C8CF73BAD}|MyFrontend\\MyFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\myfrontend\\myfrontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F15DF4F-C5CA-454E-96C7-5C2C8CF73BAD}|MyFrontend\\MyFrontend.csproj|solutionrelative:myfrontend\\myfrontend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\weatherforecast\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\weatherforecast\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\mymvcfrontend\\views\\weatherforecast\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50ADEF3C-CF81-4088-923B-7C4D2BD1C4DF}|MyMVCFrontend\\MyMVCFrontend.csproj|solutionrelative:mymvcfrontend\\views\\weatherforecast\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|d:\\learning\\dotnet\\mywebapi\\mywebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1952407C-52DB-46F2-8DDD-9646E59F674F}|MyWebAPI\\MyWebAPI.csproj|solutionrelative:mywebapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F15DF4F-C5CA-454E-96C7-5C2C8CF73BAD}|MyFrontend\\MyFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\myfrontend\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F15DF4F-C5CA-454E-96C7-5C2C8CF73BAD}|MyFrontend\\MyFrontend.csproj|solutionrelative:myfrontend\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F15DF4F-C5CA-454E-96C7-5C2C8CF73BAD}|MyFrontend\\MyFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\myfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F15DF4F-C5CA-454E-96C7-5C2C8CF73BAD}|MyFrontend\\MyFrontend.csproj|solutionrelative:myfrontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F15DF4F-C5CA-454E-96C7-5C2C8CF73BAD}|MyFrontend\\MyFrontend.csproj|d:\\learning\\dotnet\\mywebapi\\myfrontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F15DF4F-C5CA-454E-96C7-5C2C8CF73BAD}|MyFrontend\\MyFrontend.csproj|solutionrelative:myfrontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAIwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:52:41.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksApiController.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Controllers\\BooksApiController.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Controllers\\BooksApiController.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Controllers\\BooksApiController.cs",
+              "RelativeToolTip": "MyWebAPI\\Controllers\\BooksApiController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:39:10.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T07:57:40.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Controllers\\StoreController.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "MyWebAPI\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:07:40.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T10:26:26.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T10:26:35.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T10:26:38.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T08:56:01.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Controllers\\StoreController.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:05:58.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Controllers\\CartController.cs",
+              "RelativeToolTip": "MyWebAPI\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:13:30.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Controllers\\CartController.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Controllers\\CartController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:10:58.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T10:14:11.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Program.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Program.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Program.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:19:10.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "MyWebAPI\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:28:44.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\appsettings.json",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\appsettings.json",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\appsettings.json",
+              "RelativeToolTip": "MyMVCFrontend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T08:01:50.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MyWebAPI\\appsettings.json",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\appsettings.json",
+              "RelativeToolTip": "MyWebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T07:31:32.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\Cart.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\Cart.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:33:46.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T09:04:27.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Store\\Index.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Store\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T10:11:21.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Models\\Cart.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\Cart.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Models\\Cart.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:04:52.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Store\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Store\\Details.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Store\\Details.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Store\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T10:11:11.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookStoreContext.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Data\\BookStoreContext.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Data\\BookStoreContext.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Data\\BookStoreContext.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Data\\BookStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:46:31.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRoleViewModel.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\ViewModels\\UserRoleViewModel.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\ViewModels\\UserRoleViewModel.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\ViewModels\\UserRoleViewModel.cs",
+              "RelativeToolTip": "MyWebAPI\\ViewModels\\UserRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:29:36.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Program.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Program.cs",
+              "RelativeToolTip": "MyWebAPI\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:35:51.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MyMVCFrontend",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\MyMVCFrontend.csproj",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\MyMVCFrontend.csproj",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\MyMVCFrontend.csproj",
+              "RelativeToolTip": "MyMVCFrontend\\MyMVCFrontend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T07:21:56.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserRoleInitializer.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\UserRoleInitializer.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Models\\UserRoleInitializer.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\UserRoleInitializer.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Models\\UserRoleInitializer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:06:48.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Order\\Checkout.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Order\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T09:07:06.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CheckoutComplete.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Order\\CheckoutComplete.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Order\\CheckoutComplete.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Order\\CheckoutComplete.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Order\\CheckoutComplete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T09:07:08.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MyWebAPI",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
+              "RelativeDocumentMoniker": "MyWebAPI\\MyWebAPI.csproj",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\MyWebAPI.csproj",
+              "RelativeToolTip": "MyWebAPI\\MyWebAPI.csproj",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAA8AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T07:21:58.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddRoleViewModel.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\ViewModels\\AddRoleViewModel.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\ViewModels\\AddRoleViewModel.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\ViewModels\\AddRoleViewModel.cs",
+              "RelativeToolTip": "MyWebAPI\\ViewModels\\AddRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:29:15.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EditRoleViewModel.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\ViewModels\\EditRoleViewModel.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeToolTip": "MyWebAPI\\ViewModels\\EditRoleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:29:32.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:29:49.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T09:14:35.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:16:31.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\OrderItem.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:06:40.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Models\\Order.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\Order.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:06:36.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Models\\CartItem.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\CartItem.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T09:06:25.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ListAllRoles.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Admin\\ListAllRoles.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Admin\\ListAllRoles.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Admin\\ListAllRoles.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Admin\\ListAllRoles.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T09:04:20.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Admin\\Error.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Admin\\Error.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Admin\\Error.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Admin\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T09:04:19.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditUsersInRole.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Admin\\EditUsersInRole.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Admin\\EditUsersInRole.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Admin\\EditUsersInRole.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Admin\\EditUsersInRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T09:04:13.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EditRole.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Admin\\EditRole.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Admin\\EditRole.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Admin\\EditRole.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Admin\\EditRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T09:04:08.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "PostWeatherReq.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\PostWeatherReq.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Models\\PostWeatherReq.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\PostWeatherReq.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Models\\PostWeatherReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:33:47.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Models\\WeatherForecast.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\WeatherForecast.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Models\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:01:13.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DeleteRole.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Admin\\DeleteRole.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Admin\\DeleteRole.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Admin\\DeleteRole.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Admin\\DeleteRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T09:04:03.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AddRole.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Admin\\AddRole.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Admin\\AddRole.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Admin\\AddRole.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Admin\\AddRole.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T09:02:07.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DefaultUser.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\DefaultUser.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Models\\DefaultUser.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\DefaultUser.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Models\\DefaultUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T08:58:11.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MyMVCFrontend",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\MyMVCFrontend.csproj",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\MyMVCFrontend.csproj",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\MyMVCFrontend.csproj",
+              "RelativeToolTip": "MyMVCFrontend\\MyMVCFrontend.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T08:01:44.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Books\\Details.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T07:57:26.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T07:57:17.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Books\\Create.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T07:55:20.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Models\\Book.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Models\\Book.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Models\\Book.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:51:38.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyMVCFrontend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-22T08:01:47.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserRoleInitializer.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\UserRoleInitializer.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\UserRoleInitializer.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\UserRoleInitializer.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\UserRoleInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:35:13.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-22T07:57:34.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\OrderItem.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:34:17.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\Order.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\Order.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:34:13.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:34:07.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DefaultUser.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\DefaultUser.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\DefaultUser.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\DefaultUser.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\DefaultUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:34:01.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\CartItem.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\CartItem.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:33:56.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Models\\Book.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Models\\Book.cs",
+              "RelativeToolTip": "MyWebAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:33:26.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BookStoreContext.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Data\\BookStoreContext.cs",
+              "RelativeDocumentMoniker": "MyWebAPI\\Data\\BookStoreContext.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Data\\BookStoreContext.cs",
+              "RelativeToolTip": "MyWebAPI\\Data\\BookStoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T07:32:26.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MyFrontend",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyFrontend\\MyFrontend.csproj",
+              "RelativeDocumentMoniker": "MyFrontend\\MyFrontend.csproj",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyFrontend\\MyFrontend.csproj",
+              "RelativeToolTip": "MyFrontend\\MyFrontend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-22T07:21:54.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\WeatherForecast\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\WeatherForecast\\Create.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\WeatherForecast\\Create.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\WeatherForecast\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T10:35:04.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\WeatherForecast\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Views\\WeatherForecast\\Index.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Views\\WeatherForecast\\Index.cshtml",
+              "RelativeToolTip": "MyMVCFrontend\\Views\\WeatherForecast\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T10:14:18.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyWebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyWebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyWebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAABRwBoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T10:02:56.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MyMVCFrontend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyMVCFrontend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MyMVCFrontend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:02:03.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyFrontend\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFrontend\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyFrontend\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MyFrontend\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T09:42:45.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyFrontend\\Program.cs",
+              "RelativeDocumentMoniker": "MyFrontend\\Program.cs",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyFrontend\\Program.cs",
+              "RelativeToolTip": "MyFrontend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T09:43:08.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learning\\Dotnet\\MyWebAPI\\MyFrontend\\appsettings.json",
+              "RelativeDocumentMoniker": "MyFrontend\\appsettings.json",
+              "ToolTip": "D:\\Learning\\Dotnet\\MyWebAPI\\MyFrontend\\appsettings.json",
+              "RelativeToolTip": "MyFrontend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T09:43:06.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
